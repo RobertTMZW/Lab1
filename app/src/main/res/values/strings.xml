@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="who_is_the_44th_president_of_theunited_states">Who is the 44th President of theUnited States?</string>
+    <string name="textview">TextView</string>
+    <string name="which_state_is_the_oldest_in_usa">Which state is the oldest in USA?</string>
+    <string name="delaware">Delaware</string>
+</resources>
